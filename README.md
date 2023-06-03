@@ -22,7 +22,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I take courses on Coursera and play video games :)
+- :zap: In my free time, I do freelancing on fiverr and play video games :)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdullahrizzwan/">
