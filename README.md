@@ -1,4 +1,4 @@
-#Hello there,👋 I am Abdullah Rizwan.
+Hello there,👋 I am Abdullah Rizwan.
 
 
 <a href="https://github.com/abdullahrizwan649/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
