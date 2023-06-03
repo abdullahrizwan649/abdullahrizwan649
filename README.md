@@ -24,6 +24,12 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I take courses on Coursera and play video games :)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdullahrizzwan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,11 +45,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/abdullahrizzwan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+
 
 ---
 
