@@ -18,9 +18,9 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
 
-- :telescope: I’m studying CS from GIK Institute and am gaining experience in the vast field of Computer Science.
+- :telescope: I’m studying CS from GIK Institute 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring ML nowadays :)
 
 - :zap: In my free time, I do freelancing on fiverr and play video games :)
 
