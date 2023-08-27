@@ -21,7 +21,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring ML nowadays :)
 
-- :zap: In my free time, I freelance fiverr and play video games :)
+- :zap: In my free time, I freelance on fiverr and play video games :)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdullahrizzwan/">
