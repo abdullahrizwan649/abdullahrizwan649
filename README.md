@@ -17,7 +17,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
 
-- :telescope: I’m studying CS from GIK Institute 
+- :telescope: Final Year CS Undergrad @ GIK Institute 
 
 - :seedling: Exploring ML nowadays :)
 
